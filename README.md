@@ -12,9 +12,10 @@ after installing all the dependencies type in the command
 python manage.py runserver
 ```
 ## Tech used
-1.python
-2.scikitlearn
-3.Django
-4.nltk
+
+1. python
+2. scikitlearn
+3. Django
+4. nltk
 ## deployment
 ps:- under the way.. coming soon!!!
